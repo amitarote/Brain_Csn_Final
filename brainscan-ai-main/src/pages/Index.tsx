@@ -4,6 +4,7 @@ import FeaturesSection from "@/components/FeaturesSection";
 import HowItWorksSection from "@/components/HowItWorksSection";
 import TechnologySection from "@/components/TechnologySection";
 import CTASection from "@/components/CTASection";
+import DualAISystemSection from "@/components/DualAISystemSection";
 import Footer from "@/components/Footer";
 
 const Index = () => {
@@ -15,6 +16,7 @@ const Index = () => {
         <FeaturesSection />
         <HowItWorksSection />
         <TechnologySection />
+        <DualAISystemSection />
         <CTASection />
       </main>
       <Footer />
